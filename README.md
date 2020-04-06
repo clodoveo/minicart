@@ -1,2 +1,0 @@
-# minicart
-Created with CodeSandbox
